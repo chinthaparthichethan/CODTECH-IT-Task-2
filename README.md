@@ -1,6 +1,6 @@
-### **Name:** E MOUNIKA
+### **Name:** CHINTHAPARTHI CHETHAN
 ### **Company:** CODTECH IT SOLUTIONS
-### **ID:** CT6WDS1199
+### **ID:** CT6CC1031
 ### **Domain:** CLOUD COMPUTING
 ### **Duration:** JULY to AUGUST 2024
 ### **Mentor:** Neela Santhosh kumar
